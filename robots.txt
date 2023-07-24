@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://yashkothari42.github.io/al-folio/sitemap.xml
