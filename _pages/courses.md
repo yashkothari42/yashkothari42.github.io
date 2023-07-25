@@ -1,8 +1,8 @@
 ---
-layout: page
-permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+layout: courses
+permalink: /courses/
+title: courses
+description: Courses taken in undergrad and grad school.
 nav: true
 nav_order: 5
 ---
