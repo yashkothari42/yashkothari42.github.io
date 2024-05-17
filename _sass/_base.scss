@@ -23,6 +23,12 @@ hr {
   border-top: 1px solid var(--global-divider-color);
 }
 
+div.zoomed {
+  zoom: 10;
+  -moz-transform: scale(10);
+  -moz-transform-origin: 0 0;
+}
+
 table {
 
   td,

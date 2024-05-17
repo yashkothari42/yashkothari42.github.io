@@ -1,7 +1,7 @@
 ---
 layout: default
 permalink: /courses/
-title: cmu courses review
+title: cmu courses
 description: Courses taken in undergrad and grad school.
 nav: true
 nav_order: 3
