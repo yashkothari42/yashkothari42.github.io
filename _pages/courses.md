@@ -2,135 +2,36 @@
 layout: default
 permalink: /courses/
 title: cmu.courses
-description: Courses taken in undergrad and grad school.
+description: courses taken at cmu during master's degreee in computer science
 nav: true
 nav_order: 3
-toc:
-  sidebar: left
 ---
 
-#### Summer 2023
 
+⭐ = rating 
+👨‍🏫 = awesome teaching 
+⏳ = taking currently 
+#### Computer Systems 
+- **15513** ⭐⭐⭐⭐ ☆      Introduction to Computer Systems 
+- **15605** ⭐⭐⭐⭐⭐     Operating System Design and Implementation 👨‍🏫
+- **15640** ⭐⭐ ☆ ☆ ☆          Distributed Systems 
+- **15641** ⭐⭐⭐ ☆ ☆         Networking and the Internet 👨‍🏫
+- **15645** ⏳         Database Systems (TA)
+- **15721** ⭐⭐⭐⭐⭐     Advanced Database Systems 👨‍🏫
+- **15745** ⏳ Optimizing Compilers
 
-##### 15213/15513 Introduction to Computer Systems
+#### Machine Learning
+- **10601** ⭐⭐⭐ ☆ ☆ Introduction to Machine Learning 
 
-ICS is one of the flagship courses at CMU. 
-ICS is one of the flagship courses at CMU. 
-ICS is one of the flagship courses at CMU. 
-ICS is one of the flagship courses at CMU. 
-ICS is one of the flagship courses at CMU. 
-ICS is one of the flagship courses at CMU. 
-ICS is one of the flagship courses at CMU. 
-ICS is one of the flagship courses at CMU. 
-ICS is one of the flagship courses at CMU. 
-ICS is one of the flagship courses at CMU. 
-ICS is one of the flagship courses at CMU. 
-ICS is one of the flagship courses at CMU. 
-ICS is one of the flagship courses at CMU. 
-ICS is one of the flagship courses at CMU. 
-ICS is one of the flagship courses at CMU. 
-ICS is one of the flagship courses at CMU. 
-ICS is one of the flagship courses at CMU. 
-ICS is one of the flagship courses at CMU. 
-ICS is one of the flagship courses at CMU. 
-ICS is one of the flagship courses at CMU. 
-ICS is one of the flagship courses at CMU. 
-ICS is one of the flagship courses at CMU. 
-ICS is one of the flagship courses at CMU. 
-ICS is one of the flagship courses at CMU. 
-ICS is one of the flagship courses at CMU. 
-ICS is one of the flagship courses at CMU. 
-ICS is one of the flagship courses at CMU. 
-ICS is one of the flagship courses at CMU. 
-ICS is one of the flagship courses at CMU. 
-ICS is one of the flagship courses at CMU. 
-ICS is one of the flagship courses at CMU. 
-ICS is one of the flagship courses at CMU. 
-ICS is one of the flagship courses at CMU. 
-ICS is one of the flagship courses at CMU. 
+#### Robotics
+- **16663** ⭐⭐ ☆ ☆ ☆ F1Tenth Autonomous Racing 
 
-#### Fall 2023
+#### Business and Entrepreneurship
+- **14776** ⭐⭐ ☆ ☆ ☆ Fundamentals of Business Management 
+- **45805** ⏳ Lean Entrepreneurship
 
-ICS is one of the flagship courses at CMU. 
-ICS is one of the flagship courses at CMU. 
-ICS is one of the flagship courses at CMU. 
-ICS is one of the flagship courses at CMU. 
-ICS is one of the flagship courses at CMU. 
-ICS is one of the flagship courses at CMU. 
-ICS is one of the flagship courses at CMU. 
-ICS is one of the flagship courses at CMU. 
-ICS is one of the flagship courses at CMU. ICS is one of the flagship courses at CMU. 
-ICS is one of the flagship courses at CMU. 
-ICS is one of the flagship courses at CMU. 
-ICS is one of the flagship courses at CMU. 
-ICS is one of the flagship courses at CMU. 
-ICS is one of the flagship courses at CMU. 
-ICS is one of the flagship courses at CMU. 
-ICS is one of the flagship courses at CMU. 
-ICS is one of the flagship courses at CMU. ICS is one of the flagship courses at CMU. 
-ICS is one of the flagship courses at CMU. 
-ICS is one of the flagship courses at CMU. 
-ICS is one of the flagship courses at CMU. 
-ICS is one of the flagship courses at CMU. 
-ICS is one of the flagship courses at CMU. 
-ICS is one of the flagship courses at CMU. 
-ICS is one of the flagship courses at CMU. 
-ICS is one of the flagship courses at CMU. ICS is one of the flagship courses at CMU. 
-ICS is one of the flagship courses at CMU. 
-ICS is one of the flagship courses at CMU. 
-ICS is one of the flagship courses at CMU. 
-ICS is one of the flagship courses at CMU. 
-ICS is one of the flagship courses at CMU. 
-ICS is one of the flagship courses at CMU. 
-ICS is one of the flagship courses at CMU. 
-ICS is one of the flagship courses at CMU. ICS is one of the flagship courses at CMU. 
-ICS is one of the flagship courses at CMU. 
-ICS is one of the flagship courses at CMU. 
-ICS is one of the flagship courses at CMU. 
-ICS is one of the flagship courses at CMU. 
-ICS is one of the flagship courses at CMU. 
-ICS is one of the flagship courses at CMU. 
-ICS is one of the flagship courses at CMU. 
-ICS is one of the flagship courses at CMU. ICS is one of the flagship courses at CMU. 
-ICS is one of the flagship courses at CMU. 
-ICS is one of the flagship courses at CMU. 
-ICS is one of the flagship courses at CMU. 
-ICS is one of the flagship courses at CMU. 
-ICS is one of the flagship courses at CMU. 
-ICS is one of the flagship courses at CMU. 
-ICS is one of the flagship courses at CMU. 
-ICS is one of the flagship courses at CMU. ICS is one of the flagship courses at CMU. 
-ICS is one of the flagship courses at CMU. 
-ICS is one of the flagship courses at CMU. 
-ICS is one of the flagship courses at CMU. 
-ICS is one of the flagship courses at CMU. 
-ICS is one of the flagship courses at CMU. 
-ICS is one of the flagship courses at CMU. 
-ICS is one of the flagship courses at CMU. 
-ICS is one of the flagship courses at CMU. ICS is one of the flagship courses at CMU. 
-ICS is one of the flagship courses at CMU. 
-ICS is one of the flagship courses at CMU. 
-ICS is one of the flagship courses at CMU. 
-ICS is one of the flagship courses at CMU. 
-ICS is one of the flagship courses at CMU. 
-ICS is one of the flagship courses at CMU. 
-ICS is one of the flagship courses at CMU. 
-ICS is one of the flagship courses at CMU. 
-##### 10601 Introduction to Machine Learning
+#### Security
+- **14735** ⏳ Secure Coding
 
-##### 15640 Distrbuted Systems 
-
-##### 15641 Networking and the Internet
-
-
-#### Spring 2024
-
-##### 15410/15605 Operating System Design and Implementation 
-
-##### 15721 Advanced Database Systems 
-
-
-##### 16663 F1Tenth Autonomous Racing 
-
-##### 14776 Fundamentals of Business Management 
-
+#### Quantum Computation 
+- **15898** ⏳ Quantum Computing Systems
