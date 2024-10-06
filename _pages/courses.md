@@ -8,9 +8,9 @@ nav_order: 3
 ---
 
 
-⭐ = rating 
-👨‍🏫 = awesome teaching 
-⏳ = taking currently 
+⭐ = rating  
+👨‍🏫 = awesome teaching  
+⏳ = taking currently  
 #### Computer Systems 
 - **15513** ⭐⭐⭐⭐ ☆      Introduction to Computer Systems 
 - **15605** ⭐⭐⭐⭐⭐     Operating System Design and Implementation 👨‍🏫
@@ -21,6 +21,10 @@ nav_order: 3
 
 #### Machine Learning
 - **10601** ⭐⭐⭐ ☆ ☆ Introduction to Machine Learning 
+- **10714** ⏳         Deep Learning Systems
+
+#### Algorithms 
+- **15795** ⏳ Topics in Algorithmic Problem Solving
 
 #### Robotics
 - **16663** ⭐⭐ ☆ ☆ ☆ F1Tenth Autonomous Racing 
@@ -30,9 +34,3 @@ nav_order: 3
 
 #### Security
 - **14735** ⏳ Secure Coding
-
-#### Quantum 
-- **15898** ⏳ Quantum Computing Systems
-
-#### Algorithms 
-- **15795** ⏳ Topics in Algorithmic Problem Solving
